@@ -1,0 +1,16 @@
+{
+  "name": "velcis/literally-canvas",
+  "description": "Default literally canvas for composer installation",
+  "type": "library",
+  "require": {
+    "php": ">=5.3.0"
+  },
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "Vélcis Ribeiro",
+      "email": "velcisribeirodj@gmail.com"
+    }
+  ],
+  "minimum-stability": "dev"
+}
